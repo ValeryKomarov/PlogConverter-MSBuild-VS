@@ -20,6 +20,7 @@ The steps below will take you through cloning your own repository, then compilin
 3. Open PlogConverter.sln and build Release.
 4. After compiling finishes, you can run the following command in Command Prompt:
 
+
 ```
 PlogConverter.exe --help
 ```
